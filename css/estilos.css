@@ -48,4 +48,13 @@ font-size: 20px;
 {
 	background: #ddd;
 	padding: 1em;
+	font-size: 20px;
+}
+
+#footer
+{
+	background: #777;
+	color: white;
+	text-aling: center;
+	padding: 0.5em;
 }
